@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there 👋
+
+I currently work with Ruby/Rails.  See my [work profile](https://github.com/ctreptow).
+
+### However
+
+🌱 I’m currently learning: [Haskell](https://www.haskell.org/)  
+🌱 ...with occasional sidebars into [Scala](https://www.scala-lang.org/), [Docker](https://www.docker.com/), [nix](https://nixos.org/)  
+🔭 I’m currently working on [Hayz](https://gitlab.com/CraigTreptow/hayz)  
+📫 How to reach me: craig AT craigtreptow DOT com, or [my very small website](https://craigtreptow.com/)  
 
 <!--
 **CraigTreptow/CraigTreptow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
