@@ -4,9 +4,9 @@ I currently work with Ruby/Rails.  See my [work profile](https://github.com/ctre
 
 ### However
 
-🌱 I’m currently learning: [Scala](https://www.scala-lang.org/)
+🌱 I’m currently learning: [Rust](https://www.rust-lang.org/)
 🌱 ...with occasional sidebars into [Haskell](https://www.haskell.org/), [Docker](https://www.docker.com/), [nix](https://nixos.org/)  
-🔭 I’m currently working on [Scrayz](https://gitlab.com/CraigTreptow/scrayz)  
+🔭 I’m currently working on TBD (probably a ray tracer in Rust)  
 📫 How to reach me: craig AT craigtreptow DOT com, or [my very small website](https://craigtreptow.com/)  
 
 <!--
