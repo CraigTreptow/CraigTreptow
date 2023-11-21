@@ -4,9 +4,9 @@ I currently work with Ruby/Rails.  See my [work profile](https://github.com/ctre
 
 ### However
 
-🌱 I’m currently learning: [Rust](https://www.rust-lang.org/)
-🌱 ...with occasional sidebars into [Haskell](https://www.haskell.org/), [Docker](https://www.docker.com/), [nix](https://nixos.org/)  
-🔭 I’m currently working on TBD (probably a ray tracer in Rust)  
+🌱 I’m currently learning: [Python](https://www.python.org/) and [AWS DevOps](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
+🌱 ...with occasional sidebars into [Docker](https://www.docker.com/), [nix](https://nixos.org/), ?  
+🔭 I’m currently working on two things: code: a ray tracer in Python and devops: building and deploying a website to AWS using Docker, etc.  
 📫 How to reach me: craig AT craigtreptow DOT com, or [my very small website](https://craigtreptow.com/)  
 
 <!--
