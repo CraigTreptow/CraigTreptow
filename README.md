@@ -2,7 +2,6 @@
 
 🔭 I work with Ruby, Rails, Sinatra, and Javascript
 🌱 I’m currently learning: [Python](https://www.python.org/) and [AWS DevOps](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
-🌱 ...with occasional sidebars into [Docker](https://www.docker.com/), and ?  
 🔭 I’m currently working on a ray tracer  
 📫 How to reach me: craig AT craigtreptow DOT com, or [my very small website](https://craigtreptow.com/)  
 
