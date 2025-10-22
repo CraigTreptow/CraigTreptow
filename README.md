@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 - 🔭 I work with Ruby, Rails, Sinatra, and Javascript
-- 🌱 I’m currently learning: [Python](https://www.python.org/), [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_overview), and [AWS DevOps](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
-- 🔭 I’m currently working on a ray tracer
+- 🔭 I’m currently working on ryde, a Strava-ish app
 - 📫 How to reach me: craig AT craigtreptow DOT com, or [my very small website](https://craigtreptow.com/)
 
 <!--
 **CraigTreptow/CraigTreptow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning: [Python](https://www.python.org/), [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_overview), and [AWS DevOps](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
 
 Here are some ideas to get you started:
 
