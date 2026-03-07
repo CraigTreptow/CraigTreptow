@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 - 🔭 I work with Ruby, Rails, Sinatra, and Javascript
-- 🔭 I’m currently working on ryde, a Strava-ish app
+- 🔭 I’m currently exploring AI
+- 🔭 I’m currently working on projects.craigtreptow.com (games, simulations, etc.)
 - 📫 How to reach me: craig AT craigtreptow DOT com, or [my very small website](https://craigtreptow.com/)
 
 <!--
